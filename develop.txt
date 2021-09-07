@@ -1,1 +1,2 @@
+ローカルで変換しました
 develop-fixed
